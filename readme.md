@@ -36,10 +36,11 @@ The platform features a powerful **vehicle comparison engine**, smooth image del
 ## 📸 Visual Preview
 
 ![Website View](https://github.com/user-attachments/assets/dece8dfb-f0b9-4bf9-ac75-d1959bc1a504)
-*KarSource Global homepage with car listings and filtering tools*
+*Admin dashboard for managing vehicle listings and photos*
 
 ![Admin Panel](https://github.com/user-attachments/assets/0d2bf407-d495-4cee-a505-057c55d4167e)
-*Admin dashboard for managing vehicle listings and photos*
+*KarSource Global homepage with car listings and filtering tools*
+
 
 ---
 
@@ -48,3 +49,4 @@ The platform features a powerful **vehicle comparison engine**, smooth image del
 KarSource Global streamlines car discovery for users while giving dealerships full control over their listings. The project demonstrates best practices in API-driven CMS design, clean Laravel architecture, and modern frontend UX design. Built as a live-use portfolio project, it showcases advanced integration skills and UI polish across both user-facing and admin-facing environments.
 
 ---
+
